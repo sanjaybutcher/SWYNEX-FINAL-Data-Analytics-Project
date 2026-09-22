@@ -1,0 +1,21 @@
+# SWYNEX Final Data Analytics Project - Case Study
+
+ 1. Problem Statement
+To analyze the dataset, identify trends, clean data inconsistencies, and build an interactive Power BI dashboard to extract key business insights and support data-driven decision-making.
+
+ 2. Dataset Information
+- The dataset contains transactional and operational data including various attributes, dates, categories, and numerical metrics.
+- Preprocessed to handle missing values and formatting inconsistencies.
+
+ 3. Data Cleaning Process
+- Removed duplicate rows and handled missing or null values appropriately.
+- Standardized date formats, text cases, and column headers.
+- Created necessary calculated columns and measures for smooth analysis.
+
+ 4. Analysis & Power BI Dashboard
+- Developed an interactive Power BI dashboard (`powerbi dash.pbix`) visualizing key performance indicators, trends, and comparisons.
+- Used various visual elements like charts, cards, and slicers for clear data representation.
+
+ 5. Key Business Insights
+- Highlighted top-performing metrics and behavioral trends over time.
+- Provided actionable data-driven insights to improve overall business decisions and performance.
